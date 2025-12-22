@@ -6,8 +6,6 @@ import os
 
 load_dotenv()
 
-
-
 @tool
 def calculator(expression):
     """
